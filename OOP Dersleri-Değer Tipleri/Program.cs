@@ -20,7 +20,7 @@ namespace OOP_Dersleri_Değer_Tipleri
 
             Customer customer = new Customer();
             customer.Id = 1;
-            customer.FirstName = "Mustafa";
+            customer.FirstName = "Mustafa2";
             customer.LastName = "Doğan";
             customer.City = "İstanbul";
 
